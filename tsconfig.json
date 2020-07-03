@@ -3,6 +3,8 @@
     "module": "esnext",
     "target": "es5",
     "strict": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
     "moduleResolution": "node"
   }
 }

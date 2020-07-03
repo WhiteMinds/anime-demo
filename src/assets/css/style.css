@@ -1,15 +1,14 @@
 body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+  height: 100vh;
   margin: 0;
-  background: #333;
-  color: #74d7fd;
-  text-align: center;
 }
 
-.title {
-  margin-top: 300px;
-  font-size: 4rem;
-}
-
-.tip {
-	font-size: 1.4rem;
+#app {
+  width: 100%;
+  height: 100%;
 }
